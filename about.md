@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![http://i.imgur.com/sPgpu64.jpg](http://i.imgur.com/sPgpu64.jpg)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Hi, I'm Brad and I love making digital experiences! Front end web development is my passion. In the time I'm not coding, I enjoy playing soccer, skiing, reading, and gaming! Some of my favorite technologies to use are:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- Javascript
+- Mean Stack
+- Three.js
+- Sinatra
